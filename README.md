@@ -14,12 +14,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-## GitHub Stats
-<div align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=netobordezan&show_icons=true&theme=default"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netobordezan&layout=compact&theme=default"/>
-</div>
-
 ## Contact
 📩 **Email:** netobordezann@gmail.com  
 📷 **Instagram:** [@neto_bordezan](https://instagram.com/neto_bordezan)
+
